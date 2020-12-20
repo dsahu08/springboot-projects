@@ -1,0 +1,8 @@
+/*
+Simply, @Id: This annotation specifies the primary key of the entity. @GeneratedValue: This annotation is 
+used to specify the primary key generation strategy to use. i.e Instructs database to generate a value for this 
+field automatically. If the strategy is not specified by default AUTO will be used.
+*/
+
+//@Autowired-inject employee dao(uses constructor injection)
+	
